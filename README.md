@@ -211,9 +211,9 @@ This project is great for beginners who want to learn:
 
 # 👨‍💻 Author
 
-**Kartik Jindal**
+**Ishant**
 B.Tech CSE Student
-Java | Python | Web Development | AWS Learner
+Java | Python | Web Development 
 
 ---
 
