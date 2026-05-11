@@ -43,5 +43,4 @@ Banking-GUI-App/
 
 ## Author
 
-Kartik Jindal
-
+Ishant
